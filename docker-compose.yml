@@ -21,8 +21,8 @@ services:
     volumes:
       - ./dump.sql:/docker-entrypoint-initdb.d/dump.sql
     environment:
-      - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=q7963q
+      - POSTGRES_USER=
+      - POSTGRES_PASSWORD=
       - POSTGRES_DB=obj_bank_db
     networks:
       - objbank-network
