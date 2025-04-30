@@ -86,3 +86,6 @@ Fica facultativo a persistência dos dados e autenticação de sessão.
 ● Persistênciadedados;
 ```
 
+## Contato
+
+[Augusto Arraes](http://linktr.ee/a.arraes)
